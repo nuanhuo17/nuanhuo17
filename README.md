@@ -1,16 +1,17 @@
 ### Hi there 👋
+⏳ Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 68.91 %
+---
+⏰ Updated on Thu, 09 Sep 2021 12:12:41 GMT
+---
 
-<!--
-**nuanhuo17/nuanhuo17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm hangda, a daily writer about energy management and personal ideas.    
+- 🔭 I’m currently striving for a better life in Chongqing.     
+- 🤔 My blog 👉 https://github.com/nuanhuo17/HangDa-blog       
+- 💬 Ask me some questions about Effeciency Tools 👉 https://wx.zsxq.com/dweb2/index/group/28511814484121
+- 📫 My E-mail: nuanhuo17#126.com          
+- 🔧 My Power Tools: </br>   
+![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-VS%20Code-blue)     
+![VS Code](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-VS%20Code-blue)     
+![](https://img.shields.io/badge/%E5%9B%BE%E5%BA%8A-MWeb-lightgrey)       
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)     
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
