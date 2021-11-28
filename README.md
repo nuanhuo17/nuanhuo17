@@ -1,7 +1,7 @@
 ### Hi there 👋
-⏳ Year progress { ███████████████████████████▁▁▁ } 90.62 %
+⏳ Year progress { ███████████████████████████▁▁▁ } 90.69 %
 ---
-⏰ Updated on Sat, 27 Nov 2021 18:09:34 GMT
+⏰ Updated on Sun, 28 Nov 2021 00:31:36 GMT
 ---
 
 I'm hangda, a daily writer about energy management and personal ideas.    
