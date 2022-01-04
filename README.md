@@ -1,7 +1,7 @@
 ### Hi there 👋
-⏳ Year progress { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 0.89 %
+⏳ Year progress { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 0.96 %
 ---
-⏰ Updated on Tue, 04 Jan 2022 06:11:11 GMT
+⏰ Updated on Tue, 04 Jan 2022 12:14:32 GMT
 ---
 
 I'm hangda, a daily writer about energy management and personal ideas.    
